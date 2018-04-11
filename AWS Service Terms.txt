@@ -1,5 +1,5 @@
 AWS Service Terms
-Last updated: February 20, 2018
+Last updated: April 4, 2018
 The following Service Terms apply only to the specific Services to which the Service Terms relate. In the event of a conflict between the terms of these Service Terms and the terms of the AWS Customer Agreement or other agreement with us governing your use of our Services (the “Agreement”), the terms and conditions of these Service Terms apply, but only to the extent of such conflict. Capitalized terms used herein but not defined herein shall have the meanings set forth in the Agreement.
 
 1. Universal Service Terms (Applicable to All Services)
@@ -765,11 +765,11 @@ Without limiting your obligations under the Agreement, you agree not to and not 
 55.4 Subject to the Agreement and these Service Terms, you and your End Users may use Amazon QuickSight by logging into quicksight.aws.amazon.com.
 
 56. AWS Certificate Manager
-56.1 By using AWS Certificate Manager (“ACM”) you authorize us, Amazon Trust Services, LLC (“ATS”), or our affiliates (collectively, “Amazon CA”) to apply for and obtain SSL/TLS certificates (each, a “Certificate”) from certification authorities located in the United States, some of whom may be third parties, for the domain name you provide to us. By submitting a request for a Certificate, you certify that (1) you are the Domain Name Registrant (as defined in the then current CA/Browser Forum Baseline Requirements Certificate Policy for the Issuance and Management of Publicly-Trusted Certificates (the “CA/B Forum Requirements” currently located at https://cabforum.org/baseline-requirements-documents/)); (2) you have control over the Fully-Qualified Domain Name (as defined in the CA/B Forum Requirements); or that (3) you have been granted authority by the Domain Name Registrant to authorize Amazon CA to apply for and obtain each Certificate. You acknowledge that, solely for purposes of obtaining the Certificate and for no other purposes, you are giving Amazon CA control over the Fully-Qualified Domain Name, and you approve of it requesting the Certificate for the domain name. We may decline to provide you with a Certificate for any reason.
+56.1 By using AWS Certificate Manager (“ACM”) you authorize us, Amazon Trust Services, LLC (“ATS”), or our affiliates (collectively, “Amazon CA”) to apply for and obtain publicly trusted SSL/TLS certificates (each, a “Certificate”) from certification authorities located in the United States, some of whom may be third parties, for the domain name you provide to us. By submitting a request for a Certificate, you certify that (1) you are the Domain Name Registrant (as defined in the then current CA/Browser Forum Baseline Requirements Certificate Policy for the Issuance and Management of Publicly-Trusted Certificates (the “CA/B Forum Requirements” currently located at https://cabforum.org/baseline-requirements-documents/)); (2) you have control over the Fully-Qualified Domain Name (as defined in the CA/B Forum Requirements); or that (3) you have been granted authority by the Domain Name Registrant to authorize Amazon CA to apply for and obtain each Certificate. You acknowledge that, solely for purposes of obtaining the Certificate and for no other purposes, you are giving Amazon CA control over the Fully-Qualified Domain Name, and you approve of it requesting the Certificate for the domain name. We may decline to provide you with a Certificate for any reason.
 
 56.2 You agree that:
 
-All information you provide in connection with your use of ACM is and will be accurate and complete information at all times (and you will promptly notify us if your information changes);
+All information you provide in connection with your use of Certificates is and will be accurate and complete information at all times (and you will promptly notify us if your information changes);
 You will review and verify the Certificate contents for accuracy;
 You may use a Certificate provided to you by us solely on servers that are accessible at the subjectAltName(s) listed in the Certificate and will use the Certificate solely in compliance with all applicable laws;
 You will promptly cease using a Certificate, and promptly notify us, in the event that any information in the Certificate is, or becomes, incorrect or inaccurate;
@@ -1026,4 +1026,3 @@ If as a part of the Amazon Connect service, AMCS provides you with an inbound ca
 
 81. AWS Single Sign-On (AWS SSO)
 81.1 You are responsible for compliance with all end-user agreements and policies for the services or applications you access using AWS Single Sign-On.
-
