@@ -1,5 +1,5 @@
 AWS Service Terms
-Last updated: April 4, 2018
+Last updated: April 13, 2018
 The following Service Terms apply only to the specific Services to which the Service Terms relate. In the event of a conflict between the terms of these Service Terms and the terms of the AWS Customer Agreement or other agreement with us governing your use of our Services (the “Agreement”), the terms and conditions of these Service Terms apply, but only to the extent of such conflict. Capitalized terms used herein but not defined herein shall have the meanings set forth in the Agreement.
 
 1. Universal Service Terms (Applicable to All Services)
@@ -484,11 +484,11 @@ your SES Emails or Your Content include an attachment in a format that we do not
 32.2 We do not represent, warrant or guarantee the quality of any files you create through your use of Amazon Elastic Transcoder or that the files will be of a certain fidelity or error free.
 
 33. AWS OpsWorks
-33.1 “AWS OpsWorks” means AWS OpsWorks Stacks, AWS OpsWorks for Chef Automate, and AWS OpsWorks for Puppet Enterprise.  You may use AWS OpsWorks to create a collection of AWS resources and provision them.
+33.1 “AWS OpsWorks” means AWS OpsWorks Stacks, AWS OpsWorks for Chef Automate, and AWS OpsWorks for Puppet Enterprise. You may use AWS OpsWorks to create a collection of AWS resources and provision them.
 
 33.2 You may install and use the AWS OpsWorks agent solely with AWS OpsWorks. Your use of the AWS OpsWorks agent is governed by the AWS Opsworks Client License Agreement, located here: AWS OpsWorks Client License Agreement.
 
-33.3. AWS may make sample templates available for you to use in connection with AWS OpsWorks. Sample templates may include Puppet modules, Puppet Tasks, Chef recipes, and/or sample code. All sample templates are offered “as is” and you are solely responsible for your use of the sample templates.  Any templates you use in connection with AWS OpsWorks must comply with the Agreement and the AWS Acceptable Use Policy and you are solely responsible for your use of any templates.
+33.3. AWS may make sample templates available for you to use in connection with AWS OpsWorks. Sample templates may include Puppet modules, Puppet Tasks, Chef recipes, and/or sample code. All sample templates are offered “as is” and you are solely responsible for your use of the sample templates. Any templates you use in connection with AWS OpsWorks must comply with the Agreement and the AWS Acceptable Use Policy and you are solely responsible for your use of any templates.
 
 33.4. In addition to any charges you incur for your use of AWS OpsWorks, you are responsible for all fees incurred for AWS Services used in connection with AWS OpsWorks.
 
@@ -1026,3 +1026,10 @@ If as a part of the Amazon Connect service, AMCS provides you with an inbound ca
 
 81. AWS Single Sign-On (AWS SSO)
 81.1 You are responsible for compliance with all end-user agreements and policies for the services or applications you access using AWS Single Sign-On.
+
+82. AWS AppSync
+82.1 You may use AWS AppSync to publish, maintain, and monitor Your Content and to accept and process API calls as further described in the Documentation for AWS AppSync.
+
+82.2 By using AWS AppSync you acknowledge and agree that throttling thresholds established by us may vary and cache services may be limited by us from time to time as needed to operate and maintain the AWS AppSync service. In addition and without limiting your obligations under the Agreement, you agree not to and that you will not to attempt to: (i) access any resources not assigned to you by us; or (ii) perform any network discovery or load testing of Your Content inside AWS AppSync unless expressly authorized by us in writing.
+
+82.3 You are responsible for all fees incurred for AWS services that you use in connection with AWS AppSync. You are responsible for the creation, distribution, and security (including enabling of access on any device) of any applications built on AWS AppSync on your AWS account.
