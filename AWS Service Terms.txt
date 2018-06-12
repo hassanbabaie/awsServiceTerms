@@ -1,5 +1,5 @@
 AWS Service Terms
-Last updated: May 23, 2018
+Last updated: June 6, 2018
 The following Service Terms apply only to the specific Services to which the Service Terms relate. In the event of a conflict between the terms of these Service Terms and the terms of the AWS Customer Agreement or other agreement with us governing your use of our Services (the “Agreement”), the terms and conditions of these Service Terms apply, but only to the extent of such conflict. Capitalized terms used herein but not defined herein shall have the meanings set forth in the Agreement.
 
 1. Universal Service Terms (Applicable to All Services)
@@ -586,7 +586,9 @@ By using the NVIDIA GPU in an AppStream instance, you are using NVIDIA Corporati
 
 38.10 Your use of an Amazon WorkDocs Application is governed by the Amazon WorkDocs Application License Agreement found here: Amazon WorkDocs Application License Agreement .
 
-38.11 Your use of the Amazon WorkDocs Web Clipper is governed by the Amazon WorkDocs Web Clipper License Agreement found here: Amazon WorkDocs Web Clipper License Agreement  .
+38.11 Your use of the Amazon WorkDocs Web Clipper is governed by the Amazon WorkDocs Web Clipper License Agreement found here: Amazon WorkDocs Web Clipper License Agreement .
+
+38.12 Open with Office 365 is Third Party Content provided by Microsoft. By using Open with Office 365, you are subject to Microsoft’s terms of use  and privacy policy . You are solely responsible for obtaining all required licenses from Microsoft to use Open with Office 365 and for complying with all applicable Microsoft licensing requirements.
 
 39. Amazon Pinpoint
 39.1 Your Data; Privacy. You are solely responsible for all information and data you collect or store using Amazon Pinpoint (“Your Data”). Your Data is included in the definition of Your Content. Without limiting your obligations under Sections 4 and 9 of the Agreement, you must (a) provide any necessary notice to, and obtain any necessary consent from, End Users for the collection, use, transfer, and storage of Your Data (including by us), and (b) collect, use, transfer, and store Your Data in accordance with any privacy notice you provide, and all applicable laws.
